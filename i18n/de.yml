@@ -27,4 +27,7 @@ start: |
   👋 Hallo! <b>SHIPPERING</b> ist ein Bot der ein Paar vom Tag in deinem Chat wählt.
 
   Nutze /help für mehr Info.
-last_couples: Last chosen couples
+last_couples: Letzte gewählt Paare
+top_lovers: Top Liebende
+empty_lovers_list: Top Liebende ist leer
+empty_last_list: Letzte gewählte Paarenliste ist leer
