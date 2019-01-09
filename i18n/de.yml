@@ -1,7 +1,7 @@
 name: German
 couple: Paar des Tages
 shipped: Das Paar des Tages wurde gewählt
-update: Ein neues Paar des Tages kann gewählt werden in
+update: Das letzte Paar wurde kürzlich gewählt. Die Wahl eines neuen Paares ist möglich in
 few: Nicht genug Informationen um das Paar des Tages zu wählen.
 hours:
   - stunde
@@ -27,7 +27,7 @@ start: |
   👋 Hallo! <b>SHIPPERING</b> (Paarung) ist ein Bot der ein Paar des Tages in deinem Chat wählt.
 
   Nutze /help für mehr Info.
-last_couples: Paar des Tages vom Vortag
+last_couples: Die letzten Paare
 top_lovers: Am meisten im Paar
 empty_lovers_list: Bis jetzt gab es noch kein Paar.
 empty_last_list: Es gab noch keine Paare.
